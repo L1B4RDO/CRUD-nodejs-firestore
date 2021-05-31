@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .view-ul{
+    border: 1px solid #ddd;
+    margin-top: 10px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+  }
+  .view-tarifa{
+	width: 500px;
+	padding:16px;
+	border-radius:10px;
+	margin: auto;  
+	background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.view{
+	width: 96%;
+	padding:16px;
+	border-radius:10px;
+	margin: 20px;  
+	background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+table, td, th {  
+    border: 1px  #ddd;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+  
+  th, td {
+    padding: 15px;
+    border-collapse: collapse;
+  }
